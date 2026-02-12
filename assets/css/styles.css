@@ -9,7 +9,7 @@
 --dim-grey: #716a5cff;
 }
 
-html {
+body {
   background-color: var(--soft-linen);
 }
 h1 {
