@@ -10,8 +10,12 @@
 }
 
 body {
-  background-color: var(--soft-linen);
+  background-color: var(--sky-surge);
 }
 h1 {
   color: var(--black);
+}
+
+.col {
+	border: 1px soft-linen;
 }
