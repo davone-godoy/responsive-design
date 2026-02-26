@@ -15,6 +15,12 @@ body {
 h1 {
   color: var(--black);
 }
+h2 {
+	color: var(--khaki-beige);
+}
+h3 {
+	color: var(--soft-linen);
+}
 
 .col {
 	border: 1px soft-linen;
